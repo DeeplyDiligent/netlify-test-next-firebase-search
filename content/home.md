@@ -1,7 +1,7 @@
 ---
 title: Awesome kitties
 date: 2019-03-17T19:31:20.591Z
-image: 
+image: null
 cats:
   - description: Maru is a Scottish Fold from Japan, and he loves boxes.
     name: Maru (まる)
@@ -15,3 +15,5 @@ Welcome to my awesome page about cats of the internet.
 This page is built with NextJS, and content is managed in Netlify CMS.
 
 Lol this is great!
+
+![](img/zoom-meeting-participant-id-405342-2020-09-01-14-21-26.png)
